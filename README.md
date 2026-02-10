@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>TASK-3 Dockerized Strapi Setup</title>
 </head>
 <body>
 
