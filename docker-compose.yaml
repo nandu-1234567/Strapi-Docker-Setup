@@ -31,8 +31,6 @@ services:
       - postgres
     networks:
       - strapi-net
-    ports:
-      - "1337:1337"
     volumes:
       - ./strapi-app/my-blog:/srv/app
 
